@@ -1,0 +1,1183 @@
+{
+  "dependencies": [
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "GETDATA.cbl",
+      "dependencyType": "CALL",
+      "lineNumber": 557,
+      "context": "Line 557: CALL \u0027GETDATA\u0027"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "ERACSF.cbl",
+      "dependencyType": "CALL",
+      "lineNumber": 4547,
+      "context": "Line 4547: CALL \u0027ERACSF\u0027"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSCNP",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 696,
+      "context": "FROM PNSCNP"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PARCELAS",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 1253,
+      "context": "FROM PARCELAS"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PARCELAS",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 1618,
+      "context": "FROM PARCELAS"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PARCELAS",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 1641,
+      "context": "FROM PARCELAS"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PARCELAS",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 1699,
+      "context": "FROM PARCELAS"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSCNP",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 2504,
+      "context": "FROM PNSCNP"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PARCELAS",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 3615,
+      "context": "FROM PARCELAS"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "VRS037",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 3637,
+      "context": "INTO VRS037"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "TABVALFIXO",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 3684,
+      "context": "TABLE TABVALFIXO"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "END-EXEC",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 3691,
+      "context": "UPDATE END-EXEC"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSCNP",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 3691,
+      "context": "TABLE PNSCNP"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PARCELASVP",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 3727,
+      "context": "FROM PARCELASVP"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "TABCVP",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 3763,
+      "context": "FROM TABCVP"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSID",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 3840,
+      "context": "FROM PNSID"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "TABVALFIXO",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 3858,
+      "context": "FROM TABVALFIXO"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSCNP",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 3919,
+      "context": "FROM PNSCNP"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSCNP",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 4158,
+      "context": "FROM PNSCNP"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSID",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 4178,
+      "context": "FROM PNSID"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSCNP",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 4213,
+      "context": "UPDATE PNSCNP"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PARCELAS",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 4272,
+      "context": "FROM PARCELAS"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PARCELAS",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 4366,
+      "context": "INTO PARCELAS"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "STCP",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 4394,
+      "context": "FROM STCP"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "BENGUELA",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 4438,
+      "context": "FROM BENGUELA"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSCNP",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 4458,
+      "context": "FROM PNSCNP"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "HISTALT",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 4521,
+      "context": "INTO HISTALT"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "FPEDOC",
+      "dependencyType": "OPEN",
+      "lineNumber": 4553,
+      "context": "I-O Mode"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "RPEDOC",
+      "dependencyType": "WRITE",
+      "lineNumber": 4600,
+      "context": "File Write"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "FPEDOC",
+      "dependencyType": "CLOSE",
+      "lineNumber": 4619,
+      "context": "File Close"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "CONVIID",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 4633,
+      "context": "FROM CONVIID"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "CONVIID",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 4673,
+      "context": "INTO CONVIID"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "CONVIID",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 4701,
+      "context": "UPDATE CONVIID"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSCNP",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 4730,
+      "context": "FROM PNSCNP"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "VRS017",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 4755,
+      "context": "INTO VRS017"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSCGA",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 4786,
+      "context": "FROM PNSCGA"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "VRS017",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 4813,
+      "context": "INTO VRS017"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSID",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 4974,
+      "context": "UPDATE PNSID"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSID",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 5171,
+      "context": "UPDATE PNSID"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSCNP",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 5232,
+      "context": "FROM PNSCNP"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSID",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 5247,
+      "context": "FROM PNSID"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "FPEDOC",
+      "dependencyType": "CLOSE",
+      "lineNumber": 5371,
+      "context": "File Close"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSCGA",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 5491,
+      "context": "FROM PNSCGA"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSID",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 5533,
+      "context": "FROM PNSID"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSCGA",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 5845,
+      "context": "UPDATE PNSCGA"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PARCELACGA",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 5894,
+      "context": "FROM PARCELACGA"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "VRS037",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 5916,
+      "context": "INTO VRS037"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PARCELACGAVP",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 5968,
+      "context": "FROM PARCELACGAVP"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PARCELAS",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 6031,
+      "context": "FROM PARCELAS"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "END-EXEC",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 6093,
+      "context": "UPDATE END-EXEC"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PARCELACGA",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 6093,
+      "context": "TABLE PARCELACGA"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "TABCVP",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 6108,
+      "context": "FROM TABCVP"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PARCELACGAVP",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 6147,
+      "context": "FROM PARCELACGAVP"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PARCELACGA",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 6187,
+      "context": "FROM PARCELACGA"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PARCELACGA",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 6314,
+      "context": "FROM PARCELACGA"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PARCELACGA",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 6336,
+      "context": "FROM PARCELACGA"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PARCELACGA",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 6349,
+      "context": "FROM PARCELACGA"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PARCELACGA",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 6423,
+      "context": "INTO PARCELACGA"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "HISTALT",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 6468,
+      "context": "INTO HISTALT"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "TABCREGIME",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 6534,
+      "context": "FROM TABCREGIME"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "CONVIID",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 6572,
+      "context": "FROM CONVIID"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "CONVIID",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 6612,
+      "context": "INTO CONVIID"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "CONVIID",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 6640,
+      "context": "UPDATE CONVIID"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSCNP",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 6670,
+      "context": "FROM PNSCNP"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "VRS017",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 6695,
+      "context": "INTO VRS017"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSCGA",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 6726,
+      "context": "FROM PNSCGA"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "VRS017",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 6753,
+      "context": "INTO VRS017"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSID",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 6869,
+      "context": "UPDATE PNSID"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSCGA",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 6978,
+      "context": "FROM PNSCGA"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PNSID",
+      "dependencyType": "EXEC SQL",
+      "lineNumber": 6998,
+      "context": "FROM PNSID"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "SELECT-FDPERMISSOES.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "SELECT-FPEDOC.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "RPERMISSOES.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "RPEDOC.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "TXIDEF-UCOB.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "MCBDEF-UCOB.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-DMSPROTN.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "MSG-ERR.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "MSG-807.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-DATA.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-TABERROS.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-DATA-HORA.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-ERRO-RDMS.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-DESCR-HA.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-DIFDATAS.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-DATAPROC.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-INCTIME.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-REGIME.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-FDPERMISSOES.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-FDPERMISSOES4.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-FDPERMISSOES1.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-FILE-STATUS-SFS.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-TABCUTIL.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-ERRO-SCRATCH.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-FPEDOC.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-TABCVP.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-PNSCNPVP.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-PNSCNP.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-CONVIID.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-PNSCGA.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-PARCELACGA.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-PNSID.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-STCP.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-BENGUELA.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-HISTALT.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-TABVALFIXO.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "DD-VAR-ERROS.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PD-ERRO-SCRATCH.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PD-UTIL.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PD-REGIME.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PD-VER-OCORR-PERMISSOES.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PD-FDPERMISSOES.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PD-DATAPROC.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PD-DIFDATAS.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PD-DESCR-HA.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PD-TABERROS.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PD-DATA-HORA.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PD-INCTIME.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PD-ERRO-RDMS-DMS.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PD-ERRO-ERACSF-DMS.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PD-ERRO-SFS-DMS.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "API-MSG-ERR.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "API-ERRO.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PD-VALID-DAT.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "API-MSG-ERR-EPORTAL.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "API-ERRO-EPORTAL.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "API-PLATFORM-EXIT.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PD-DMSPROTN.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PD-DMSPROTN4.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PD-DMSPROTN1.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    },
+    {
+      "sourceFile": "ap825_67.cbl",
+      "targetFile": "PD-LIMPA-VAR-ERROS.cpy",
+      "dependencyType": "COPY",
+      "lineNumber": 0,
+      "context": "Copybook inclusion"
+    }
+  ],
+  "copybookUsage": {
+    "ap825_67.cbl": [
+      "SELECT-FDPERMISSOES.cpy",
+      "SELECT-FPEDOC.cpy",
+      "RPERMISSOES.cpy",
+      "RPEDOC.cpy",
+      "TXIDEF-UCOB.cpy",
+      "MCBDEF-UCOB.cpy",
+      "DD-DMSPROTN.cpy",
+      "MSG-ERR.cpy",
+      "MSG-807.cpy",
+      "DD-DATA.cpy",
+      "DD-TABERROS.cpy",
+      "DD-DATA-HORA.cpy",
+      "DD-ERRO-RDMS.cpy",
+      "DD-DESCR-HA.cpy",
+      "DD-DIFDATAS.cpy",
+      "DD-DATAPROC.cpy",
+      "DD-INCTIME.cpy",
+      "DD-REGIME.cpy",
+      "DD-FDPERMISSOES.cpy",
+      "DD-FDPERMISSOES4.cpy",
+      "DD-FDPERMISSOES1.cpy",
+      "DD-FILE-STATUS-SFS.cpy",
+      "DD-TABCUTIL.cpy",
+      "DD-ERRO-SCRATCH.cpy",
+      "DD-FPEDOC.cpy",
+      "DD-TABCVP.cpy",
+      "DD-PNSCNPVP.cpy",
+      "DD-PNSCNP.cpy",
+      "DD-CONVIID.cpy",
+      "DD-PNSCGA.cpy",
+      "DD-PARCELACGA.cpy",
+      "DD-PNSID.cpy",
+      "DD-STCP.cpy",
+      "DD-BENGUELA.cpy",
+      "DD-HISTALT.cpy",
+      "DD-TABVALFIXO.cpy",
+      "DD-VAR-ERROS.cpy",
+      "PD-ERRO-SCRATCH.cpy",
+      "PD-UTIL.cpy",
+      "PD-REGIME.cpy",
+      "PD-VER-OCORR-PERMISSOES.cpy",
+      "PD-FDPERMISSOES.cpy",
+      "PD-DATAPROC.cpy",
+      "PD-DIFDATAS.cpy",
+      "PD-DESCR-HA.cpy",
+      "PD-TABERROS.cpy",
+      "PD-DATA-HORA.cpy",
+      "PD-INCTIME.cpy",
+      "PD-ERRO-RDMS-DMS.cpy",
+      "PD-ERRO-ERACSF-DMS.cpy",
+      "PD-ERRO-SFS-DMS.cpy",
+      "API-MSG-ERR.cpy",
+      "API-ERRO.cpy",
+      "PD-VALID-DAT.cpy",
+      "API-MSG-ERR-EPORTAL.cpy",
+      "API-ERRO-EPORTAL.cpy",
+      "API-PLATFORM-EXIT.cpy",
+      "PD-DMSPROTN.cpy",
+      "PD-DMSPROTN4.cpy",
+      "PD-DMSPROTN1.cpy",
+      "PD-LIMPA-VAR-ERROS.cpy"
+    ]
+  },
+  "reverseDependencies": {
+    "SELECT-FDPERMISSOES.cpy": [
+      "ap825_67.cbl"
+    ],
+    "SELECT-FPEDOC.cpy": [
+      "ap825_67.cbl"
+    ],
+    "RPERMISSOES.cpy": [
+      "ap825_67.cbl"
+    ],
+    "RPEDOC.cpy": [
+      "ap825_67.cbl"
+    ],
+    "TXIDEF-UCOB.cpy": [
+      "ap825_67.cbl"
+    ],
+    "MCBDEF-UCOB.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-DMSPROTN.cpy": [
+      "ap825_67.cbl"
+    ],
+    "MSG-ERR.cpy": [
+      "ap825_67.cbl"
+    ],
+    "MSG-807.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-DATA.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-TABERROS.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-DATA-HORA.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-ERRO-RDMS.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-DESCR-HA.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-DIFDATAS.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-DATAPROC.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-INCTIME.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-REGIME.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-FDPERMISSOES.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-FDPERMISSOES4.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-FDPERMISSOES1.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-FILE-STATUS-SFS.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-TABCUTIL.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-ERRO-SCRATCH.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-FPEDOC.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-TABCVP.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-PNSCNPVP.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-PNSCNP.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-CONVIID.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-PNSCGA.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-PARCELACGA.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-PNSID.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-STCP.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-BENGUELA.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-HISTALT.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-TABVALFIXO.cpy": [
+      "ap825_67.cbl"
+    ],
+    "DD-VAR-ERROS.cpy": [
+      "ap825_67.cbl"
+    ],
+    "PD-ERRO-SCRATCH.cpy": [
+      "ap825_67.cbl"
+    ],
+    "PD-UTIL.cpy": [
+      "ap825_67.cbl"
+    ],
+    "PD-REGIME.cpy": [
+      "ap825_67.cbl"
+    ],
+    "PD-VER-OCORR-PERMISSOES.cpy": [
+      "ap825_67.cbl"
+    ],
+    "PD-FDPERMISSOES.cpy": [
+      "ap825_67.cbl"
+    ],
+    "PD-DATAPROC.cpy": [
+      "ap825_67.cbl"
+    ],
+    "PD-DIFDATAS.cpy": [
+      "ap825_67.cbl"
+    ],
+    "PD-DESCR-HA.cpy": [
+      "ap825_67.cbl"
+    ],
+    "PD-TABERROS.cpy": [
+      "ap825_67.cbl"
+    ],
+    "PD-DATA-HORA.cpy": [
+      "ap825_67.cbl"
+    ],
+    "PD-INCTIME.cpy": [
+      "ap825_67.cbl"
+    ],
+    "PD-ERRO-RDMS-DMS.cpy": [
+      "ap825_67.cbl"
+    ],
+    "PD-ERRO-ERACSF-DMS.cpy": [
+      "ap825_67.cbl"
+    ],
+    "PD-ERRO-SFS-DMS.cpy": [
+      "ap825_67.cbl"
+    ],
+    "API-MSG-ERR.cpy": [
+      "ap825_67.cbl"
+    ],
+    "API-ERRO.cpy": [
+      "ap825_67.cbl"
+    ],
+    "PD-VALID-DAT.cpy": [
+      "ap825_67.cbl"
+    ],
+    "API-MSG-ERR-EPORTAL.cpy": [
+      "ap825_67.cbl"
+    ],
+    "API-ERRO-EPORTAL.cpy": [
+      "ap825_67.cbl"
+    ],
+    "API-PLATFORM-EXIT.cpy": [
+      "ap825_67.cbl"
+    ],
+    "PD-DMSPROTN.cpy": [
+      "ap825_67.cbl"
+    ],
+    "PD-DMSPROTN4.cpy": [
+      "ap825_67.cbl"
+    ],
+    "PD-DMSPROTN1.cpy": [
+      "ap825_67.cbl"
+    ],
+    "PD-LIMPA-VAR-ERROS.cpy": [
+      "ap825_67.cbl"
+    ]
+  },
+  "mermaidDiagram": "flowchart LR\n  %% Program\n  ap825[/\u0022ap825_67.cbl\u0022/]\n\n  %% Calls\n  subgraph Calls\n    direction TB\n    getdata[GETDATA.cbl]\n    eracsf[ERACSF.cbl]\n  end\n\n  %% Files / File operations\n  subgraph Files\n    direction TB\n    fpedoc[FPEDOC]\n    rpedoc[RPEDOC]\n  end\n\n  %% SQL objects / EXEC SQL targets\n  subgraph \u0022EXEC SQL / DB Objects\u0022\n    direction TB\n    pnscnp[PNSCNP]\n    parcelas[PARCELAS]\n    vrs037[VRS037]\n    tabvalfixo[TABVALFIXO]\n    endexec[\u0022END-EXEC\u0022]\n    parcelasvp[PARCELASVP]\n    tabcvp[TABCVP]\n    pnsid[PNSID]\n    stcp[STCP]\n    benguela[BENGUELA]\n    histalt[HISTALT]\n    conviid[CONVIID]\n    vrs017[VRS017]\n    pnscga[PNSCGA]\n    parcelacga[PARCELACGA]\n    parcelacgavp[PARCELACGAVP]\n    tabcregime[TABCREGIME]\n  end\n\n  %% Copybooks\n  subgraph \u0022COPYBOOKS (COPY)\u0022\n    direction TB\n    cb_SELECT_FDPERMISSOES[\u0022SELECT-FDPERMISSOES.cpy\u0022]\n    cb_SELECT_FPEDOC[\u0022SELECT-FPEDOC.cpy\u0022]\n    cb_RPERMISSOES[\u0022RPERMISSOES.cpy\u0022]\n    cb_RPEDOC[\u0022RPEDOC.cpy\u0022]\n    cb_TXIDEF_UCOB[\u0022TXIDEF-UCOB.cpy\u0022]\n    cb_MCBDEF_UCOB[\u0022MCBDEF-UCOB.cpy\u0022]\n    cb_DD_DMSPROTN[\u0022DD-DMSPROTN.cpy\u0022]\n    cb_MSG_ERR[\u0022MSG-ERR.cpy\u0022]\n    cb_MSG_807[\u0022MSG-807.cpy\u0022]\n    cb_DD_DATA[\u0022DD-DATA.cpy\u0022]\n    cb_DD_TABERROS[\u0022DD-TABERROS.cpy\u0022]\n    cb_DD_DATA_HORA[\u0022DD-DATA-HORA.cpy\u0022]\n    cb_DD_ERRO_RDMS[\u0022DD-ERRO-RDMS.cpy\u0022]\n    cb_DD_DESCR_HA[\u0022DD-DESCR-HA.cpy\u0022]\n    cb_DD_DIFDATAS[\u0022DD-DIFDATAS.cpy\u0022]\n    cb_DD_DATAPROC[\u0022DD-DATAPROC.cpy\u0022]\n    cb_DD_INCTIME[\u0022DD-INCTIME.cpy\u0022]\n    cb_DD_REGIME[\u0022DD-REGIME.cpy\u0022]\n    cb_DD_FDPERMISSOES[\u0022DD-FDPERMISSOES.cpy\u0022]\n    cb_DD_FDPERMISSOES4[\u0022DD-FDPERMISSOES4.cpy\u0022]\n    cb_DD_FDPERMISSOES1[\u0022DD-FDPERMISSOES1.cpy\u0022]\n    cb_DD_FILE_STATUS_SFS[\u0022DD-FILE-STATUS-SFS.cpy\u0022]\n    cb_DD_TABCUTIL[\u0022DD-TABCUTIL.cpy\u0022]\n    cb_DD_ERRO_SCRATCH[\u0022DD-ERRO-SCRATCH.cpy\u0022]\n    cb_DD_FPEDOC[\u0022DD-FPEDOC.cpy\u0022]\n    cb_DD_TABCVP[\u0022DD-TABCVP.cpy\u0022]\n    cb_DD_PNSCNPVP[\u0022DD-PNSCNPVP.cpy\u0022]\n    cb_DD_PNSCNP[\u0022DD-PNSCNP.cpy\u0022]\n    cb_DD_CONVIID[\u0022DD-CONVIID.cpy\u0022]\n    cb_DD_PNSCGA[\u0022DD-PNSCGA.cpy\u0022]\n    cb_DD_PARCELACGA[\u0022DD-PARCELACGA.cpy\u0022]\n    cb_DD_PNSID[\u0022DD-PNSID.cpy\u0022]\n    cb_DD_STCP[\u0022DD-STCP.cpy\u0022]\n    cb_DD_BENGUELA[\u0022DD-BENGUELA.cpy\u0022]\n    cb_DD_HISTALT[\u0022DD-HISTALT.cpy\u0022]\n    cb_DD_TABVALFIXO[\u0022DD-TABVALFIXO.cpy\u0022]\n    cb_DD_VAR_ERROS[\u0022DD-VAR-ERROS.cpy\u0022]\n    cb_PD_ERRO_SCRATCH[\u0022PD-ERRO-SCRATCH.cpy\u0022]\n    cb_PD_UTIL[\u0022PD-UTIL.cpy\u0022]\n    cb_PD_REGIME[\u0022PD-REGIME.cpy\u0022]\n    cb_PD_VER_OCORR_PERMISSOES[\u0022PD-VER-OCORR-PERMISSOES.cpy\u0022]\n    cb_PD_FDPERMISSOES[\u0022PD-FDPERMISSOES.cpy\u0022]\n    cb_PD_DATAPROC[\u0022PD-DATAPROC.cpy\u0022]\n    cb_PD_DIFDATAS[\u0022PD-DIFDATAS.cpy\u0022]\n    cb_PD_DESCR_HA[\u0022PD-DESCR-HA.cpy\u0022]\n    cb_PD_TABERROS[\u0022PD-TABERROS.cpy\u0022]\n    cb_PD_DATA_HORA[\u0022PD-DATA-HORA.cpy\u0022]\n    cb_PD_INCTIME[\u0022PD-INCTIME.cpy\u0022]\n    cb_PD_ERRO_RDMS_DMS[\u0022PD-ERRO-RDMS-DMS.cpy\u0022]\n    cb_PD_ERRO_ERACSF_DMS[\u0022PD-ERRO-ERACSF-DMS.cpy\u0022]\n    cb_PD_ERRO_SFS_DMS[\u0022PD-ERRO-SFS-DMS.cpy\u0022]\n    cb_API_MSG_ERR[\u0022API-MSG-ERR.cpy\u0022]\n    cb_API_ERRO[\u0022API-ERRO.cpy\u0022]\n    cb_PD_VALID_DAT[\u0022PD-VALID-DAT.cpy\u0022]\n    cb_API_MSG_ERR_EPORTAL[\u0022API-MSG-ERR-EPORTAL.cpy\u0022]\n    cb_API_ERRO_EPORTAL[\u0022API-ERRO-EPORTAL.cpy\u0022]\n    cb_API_PLATFORM_EXIT[\u0022API-PLATFORM-EXIT.cpy\u0022]\n    cb_PD_DMSPROTN[\u0022PD-DMSPROTN.cpy\u0022]\n    cb_PD_DMSPROTN4[\u0022PD-DMSPROTN4.cpy\u0022]\n    cb_PD_DMSPROTN1[\u0022PD-DMSPROTN1.cpy\u0022]\n    cb_PD_LIMPA_VAR_ERROS[\u0022PD-LIMPA-VAR-ERROS.cpy\u0022]\n  end\n\n  %% Edges: Calls\n  ap825 --\u003E|CALL| getdata\n  ap825 --\u003E|CALL| eracsf\n\n  %% Edges: File operations\n  ap825 --\u003E|OPEN file| fpedoc\n  ap825 --\u003E|WRITE file| rpedoc\n  ap825 --\u003E|CLOSE file| fpedoc\n\n  %% Edges: EXEC SQL (deduplicated)\n  ap825 --\u003E|EXEC SQL| pnscnp\n  ap825 --\u003E|EXEC SQL| parcelas\n  ap825 --\u003E|EXEC SQL| vrs037\n  ap825 --\u003E|EXEC SQL| tabvalfixo\n  ap825 --\u003E|EXEC SQL| endexec\n  ap825 --\u003E|EXEC SQL| parcelasvp\n  ap825 --\u003E|EXEC SQL| tabcvp\n  ap825 --\u003E|EXEC SQL| pnsid\n  ap825 --\u003E|EXEC SQL| stcp\n  ap825 --\u003E|EXEC SQL| benguela\n  ap825 --\u003E|EXEC SQL| histalt\n  ap825 --\u003E|EXEC SQL| conviid\n  ap825 --\u003E|EXEC SQL| vrs017\n  ap825 --\u003E|EXEC SQL| pnscga\n  ap825 --\u003E|EXEC SQL| parcelacga\n  ap825 --\u003E|EXEC SQL| parcelacgavp\n  ap825 --\u003E|EXEC SQL| tabcregime\n\n  %% Edges: COPYBOOKS\n  ap825 --\u003E|COPY| cb_SELECT_FDPERMISSOES\n  ap825 --\u003E|COPY| cb_SELECT_FPEDOC\n  ap825 --\u003E|COPY| cb_RPERMISSOES\n  ap825 --\u003E|COPY| cb_RPEDOC\n  ap825 --\u003E|COPY| cb_TXIDEF_UCOB\n  ap825 --\u003E|COPY| cb_MCBDEF_UCOB\n  ap825 --\u003E|COPY| cb_DD_DMSPROTN\n  ap825 --\u003E|COPY| cb_MSG_ERR\n  ap825 --\u003E|COPY| cb_MSG_807\n  ap825 --\u003E|COPY| cb_DD_DATA\n  ap825 --\u003E|COPY| cb_DD_TABERROS\n  ap825 --\u003E|COPY| cb_DD_DATA_HORA\n  ap825 --\u003E|COPY| cb_DD_ERRO_RDMS\n  ap825 --\u003E|COPY| cb_DD_DESCR_HA\n  ap825 --\u003E|COPY| cb_DD_DIFDATAS\n  ap825 --\u003E|COPY| cb_DD_DATAPROC\n  ap825 --\u003E|COPY| cb_DD_INCTIME\n  ap825 --\u003E|COPY| cb_DD_REGIME\n  ap825 --\u003E|COPY| cb_DD_FDPERMISSOES\n  ap825 --\u003E|COPY| cb_DD_FDPERMISSOES4\n  ap825 --\u003E|COPY| cb_DD_FDPERMISSOES1\n  ap825 --\u003E|COPY| cb_DD_FILE_STATUS_SFS\n  ap825 --\u003E|COPY| cb_DD_TABCUTIL\n  ap825 --\u003E|COPY| cb_DD_ERRO_SCRATCH\n  ap825 --\u003E|COPY| cb_DD_FPEDOC\n  ap825 --\u003E|COPY| cb_DD_TABCVP\n  ap825 --\u003E|COPY| cb_DD_PNSCNPVP\n  ap825 --\u003E|COPY| cb_DD_PNSCNP\n  ap825 --\u003E|COPY| cb_DD_CONVIID\n  ap825 --\u003E|COPY| cb_DD_PNSCGA\n  ap825 --\u003E|COPY| cb_DD_PARCELACGA\n  ap825 --\u003E|COPY| cb_DD_PNSID\n  ap825 --\u003E|COPY| cb_DD_STCP\n  ap825 --\u003E|COPY| cb_DD_BENGUELA\n  ap825 --\u003E|COPY| cb_DD_HISTALT\n  ap825 --\u003E|COPY| cb_DD_TABVALFIXO\n  ap825 --\u003E|COPY| cb_DD_VAR_ERROS\n  ap825 --\u003E|COPY| cb_PD_ERRO_SCRATCH\n  ap825 --\u003E|COPY| cb_PD_UTIL\n  ap825 --\u003E|COPY| cb_PD_REGIME\n  ap825 --\u003E|COPY| cb_PD_VER_OCORR_PERMISSOES\n  ap825 --\u003E|COPY| cb_PD_FDPERMISSOES\n  ap825 --\u003E|COPY| cb_PD_DATAPROC\n  ap825 --\u003E|COPY| cb_PD_DIFDATAS\n  ap825 --\u003E|COPY| cb_PD_DESCR_HA\n  ap825 --\u003E|COPY| cb_PD_TABERROS\n  ap825 --\u003E|COPY| cb_PD_DATA_HORA\n  ap825 --\u003E|COPY| cb_PD_INCTIME\n  ap825 --\u003E|COPY| cb_PD_ERRO_RDMS_DMS\n  ap825 --\u003E|COPY| cb_PD_ERRO_ERACSF_DMS\n  ap825 --\u003E|COPY| cb_PD_ERRO_SFS_DMS\n  ap825 --\u003E|COPY| cb_API_MSG_ERR\n  ap825 --\u003E|COPY| cb_API_ERRO\n  ap825 --\u003E|COPY| cb_PD_VALID_DAT\n  ap825 --\u003E|COPY| cb_API_MSG_ERR_EPORTAL\n  ap825 --\u003E|COPY| cb_API_ERRO_EPORTAL\n  ap825 --\u003E|COPY| cb_API_PLATFORM_EXIT\n  ap825 --\u003E|COPY| cb_PD_DMSPROTN\n  ap825 --\u003E|COPY| cb_PD_DMSPROTN4\n  ap825 --\u003E|COPY| cb_PD_DMSPROTN1\n  ap825 --\u003E|COPY| cb_PD_LIMPA_VAR_ERROS\n\n  %% Styling\n  classDef program fill:#f0f9ff,stroke:#036,stroke-width:2px;\n  classDef call fill:#e6f7ff,stroke:#0a6,stroke-width:1px;\n  classDef file fill:#fff4e6,stroke:#b35b00,stroke-width:1px;\n  classDef sql fill:#fff7f0,stroke:#b33a6f,stroke-width:1px;\n  classDef copy fill:#f4f6f8,stroke:#666,stroke-dasharray: 3 3;\n\n  class ap825 program;\n  class getdata,eracsf call;\n  class fpedoc,rpedoc file;\n  class pnscnp,parcelas,vrs037,tabvalfixo,endexec,parcelasvp,tabcvp,pnsid,stcp,benguela,histalt,conviid,vrs017,pnscga,parcelacga,parcelacgavp,tabcregime sql;\n  class cb_SELECT_FDPERMISSOES,cb_SELECT_FPEDOC,cb_RPERMISSOES,cb_RPEDOC,cb_TXIDEF_UCOB,cb_MCBDEF_UCOB,cb_DD_DMSPROTN,cb_MSG_ERR,cb_MSG_807,cb_DD_DATA,cb_DD_TABERROS,cb_DD_DATA_HORA,cb_DD_ERRO_RDMS,cb_DD_DESCR_HA,cb_DD_DIFDATAS,cb_DD_DATAPROC,cb_DD_INCTIME,cb_DD_REGIME,cb_DD_FDPERMISSOES,cb_DD_FDPERMISSOES4,cb_DD_FDPERMISSOES1,cb_DD_FILE_STATUS_SFS,cb_DD_TABCUTIL,cb_DD_ERRO_SCRATCH,cb_DD_FPEDOC,cb_DD_TABCVP,cb_DD_PNSCNPVP,cb_DD_PNSCNP,cb_DD_CONVIID,cb_DD_PNSCGA,cb_DD_PARCELACGA,cb_DD_PNSID,cb_DD_STCP,cb_DD_BENGUELA,cb_DD_HISTALT,cb_DD_TABVALFIXO,cb_DD_VAR_ERROS,cb_PD_ERRO_SCRATCH,cb_PD_UTIL,cb_PD_REGIME,cb_PD_VER_OCORR_PERMISSOES,cb_PD_FDPERMISSOES,cb_PD_DATAPROC,cb_PD_DIFDATAS,cb_PD_DESCR_HA,cb_PD_TABERROS,cb_PD_DATA_HORA,cb_PD_INCTIME,cb_PD_ERRO_RDMS_DMS,cb_PD_ERRO_ERACSF_DMS,cb_PD_ERRO_SFS_DMS,cb_API_MSG_ERR,cb_API_ERRO,cb_PD_VALID_DAT,cb_API_MSG_ERR_EPORTAL,cb_API_ERRO_EPORTAL,cb_API_PLATFORM_EXIT,cb_PD_DMSPROTN,cb_PD_DMSPROTN4,cb_PD_DMSPROTN1,cb_PD_LIMPA_VAR_ERROS copy;",
+  "analysisInsights": "Summary\n- The program ap825_67.cbl is composed of a clear layered collection of copybooks: Environment/SELECTs, Data/FD/01 definitions (DD-* and TXI/MCB*), Procedure utility routines (PD-*), message/error APIs (API-*, MSG-*), and report/record templates (RP*/SELECT-*). Data flows downhill: SELECT -\u003E DD (data layout) -\u003E PD (procedures that operate on the data) -\u003E API/MSG for reporting/errors. Many copybooks appear in matching pairs (DD-* and PD-*) indicating data description \u002B processing logic for the same functional area (e.g., FDPERMISSOES, FPEDOC, DMSPROTN).\n- This description is based on naming conventions (DD = data definitions, PD = procedure definitions, API/MSG = messaging/error handling, SELECT/FD = file-selection) since source text of copybooks was not provided.\n\n1) Data-flow dependencies (high-confidence mappings)\n- File handling / record layout\n  - SELECT-FDPERMISSOES.cpy -\u003E DD-FDPERMISSOES.cpy (FD/01 layouts) -\u003E PD-FDPERMISSOES.cpy (procedures that read/write/process FDPERMISSOES)\n  - SELECT-FPEDOC.cpy -\u003E DD-FPEDOC.cpy -\u003E (PD routines that process FPEDOC; PD-FPEDOC not listed but PD-* may include the logic elsewhere)\n  - TXIDEF-UCOB.cpy, MCBDEF-UCOB.cpy -\u003E used by DD-* copybooks and by API-PLATFORM-EXIT for transaction/message structure\n- DMS / Protocol handling\n  - DD-DMSPROTN.cpy \u003C-\u003E PD-DMSPROTN.cpy and PD-DMSPROTN1.cpy / PD-DMSPROTN4.cpy (variants). Data layout (DD-DMSPROTN) feeds PD routines that implement the protocol/processing.\n- Error handling and status\n  - DD-TABERROS.cpy, DD-VAR-ERROS.cpy, DD-ERRO-RDMS.cpy, DD-ERRO-SCRATCH.cpy -\u003E PD-TABERROS.cpy, PD-LIMPA-VAR-ERROS.cpy, PD-ERRO-RDMS-DMS.cpy, PD-ERRO-ERACSF-DMS.cpy, PD-ERRO-SFS-DMS.cpy\n  - API-MSG-ERR.cpy, API-ERRO.cpy, API-MSG-ERR-EPORTAL.cpy, API-ERRO-EPORTAL.cpy -\u003E message formatting and platform error propagation called by PD-* error routines\n  - DD-FILE-STATUS-SFS.cpy -\u003E PD-ERRO-SFS-DMS.cpy (file/status mapping)\n- Date/time utilities\n  - DD-DATA-HORA.cpy, DD-INCTIME.cpy, DD-DIFDATAS.cpy -\u003E PD-DATA-HORA.cpy, PD-INCTIME.cpy, PD-DIFDATAS.cpy\n- Reports / Output\n  - RPERMISSOES.cpy, RPEDOC.cpy -\u003E reporting templates used by program after data processed\n- Misc / Constants / Lookup tables\n  - DD-TABCVP.cpy, DD-PNSCNPVP.cpy, DD-PNSCNP.cpy, DD-TABVALFIXO.cpy etc. -\u003E used by PD-* routines for lookups/validation\n\nGeneral data flow: SELECT/FD copybooks declare file associations; DD-* provide record layouts and shared WS variables; PD-* implement operations over those data structures; API-* and MSG-* format and emit errors/messages; RP*/RPEDOC produce outputs.\n\n2) Potential circular-dependency risks\n- Copybook circularity is possible only if copybooks include each other in a cycle. From names alone we cannot prove an existing cycle, but there are red flags:\n  - Paired DD-/PD- naming: if PD copybooks include DD copybooks (normal) and some DD copybooks also include PD copybooks (bad practice) a circular include can occur.\n  - PD-DMSPROTN variants (PD-DMSPROTN, PD-DMSPROTN1, PD-DMSPROTN4) \u2014 if these variant PDs CALL/INCLUDE one another rather than exposed as callable programs, you risk tangled includes.\n  - API-* and PD-* interactions: if API-MSG-ERR or API-PLATFORM-EXIT include PD helper routines (or vice-versa) there may be cycles.\n  - Shared \u0022utility\u0022 PD copybooks (e.g., PD-UTIL.cpy, PD-LIMPA-VAR-ERROS.cpy) included by many other PDs: safe if they are self-contained, risky if they reference back to specific PDs.\n- Likely non-circular pattern: SELECT and DD copybooks are normally pure data and included by the main program and by PD copybooks (one-way). The usual problematic case is copybooks that mix DATA and PROCEDURE Section code or multiple procedure paragraphs inside copybooks that include one another.\n\nHow to detect actual cycles (recommended immediate checks)\n- Build an include-graph: for each copybook, parse its INCLUDE/COPY statements and produce a directed graph. Detect strongly connected components (SCCs) or back edges.\n- Search for COPY statements inside copybooks (not just in programs).\n- Check for procedure paragraphs inside copybooks that are included into other copybooks (procedure-in-copybook recursion).\n\n3) Modularity \u0026 refactoring recommendations\nHigh-level goals: enforce separation of concerns, make copybooks single-responsibility (either data or code), remove textual coupling, prefer CALLed service programs for procedural logic.\n\nConcrete recommendations\n- Separate data definitions from procedures:\n  - Ensure all DD-* and TXI/MCB* copybooks contain only data definitions (FD/01/WORKING-STORAGE/01 items) and constants.\n  - Ensure all PD-* copybooks contain only procedure paragraphs (or convert to compiled subprograms called via CALL). Avoid PD copybooks including DD copybooks that contain PROCEDURE CODE (mixing code into data copybooks).\n- Convert large PD-* copybooks into separately compiled modules:\n  - Where possible, turn frequently reused PD routines (PD-UTIL, PD-DIFDATAS, PD-DATA-HORA, PD-LIMPA-VAR-ERROS) into callable subprograms (CALL or service programs). This reduces duplication and simplifies versioning.\n- Create clear interface contracts:\n  - Define a small set of well-documented parameters and data structures (in dedicated interface copybooks) that PD routines accept/modify. Avoid global working-storage leaks across many included copybooks.\n  - Use namespacing/prefixes for variables (e.g., FDPERM-*, FPEDOC-*, DMS-*) to avoid collisions.\n- Centralize error-handling:\n  - Keep API-MSG-ERR/ API-ERRO as the single place for message formatting and logging. PD error handlers should call API functions instead of re-implementing error formatting.\n- Minimize multiple variants and branching copybooks:\n  - PD-DMSPROTN1/4 suggests variant logic. Rationalize variants: parameterize a single routine or provide different CALLable subprograms rather than multiple inlined copybooks.\n- Reduce COPY chaining:\n  - Avoid long include-chains (A includes B includes C). Flatten where sensible or convert deep-chains into explicit CALLs.\n- Make copybooks idempotent and safe:\n  - Ensure copybooks that define data are safe to include multiple times (use distinct names or conditional guards if supported by preprocessors) and do not define PROCEDURE DIVISION paragraphs that pollute the program\u2019s paragraph namespace unexpectedly.\n- Establish testing/CI for copybook changes:\n  - A small script that regenerates the include graph and runs static checks (duplicate 01-level names, duplicate paragraph names, circular includes) before builds.\n\nPotential quick wins\n- Map the SELECT-DD-PD triads and move PD logic for a triad into a dedicated service program. E.g., FDPERMISSOES: build a FDPERMISSOES service module exposing a small API and include only its interface copies in ap825_67.cbl.\n- Consolidate date/time utilities into a single PD-DATE-TIME module.\n- Consolidate all error mapping (DD-TABERROS / PD-TABERROS) into one shared library and ensure all programs call it rather than including its code.\n\nSuggested next steps (practical)\n1. Generate the actual include graph:\n   - Script example: recursively grep COPY/INCLUDE in all .cpy and .cbl, build directed graph (edges: file -\u003E included-file), run a SCC/cycle detection (e.g., using Python networkx).\n2. Flag:\n   - All copybooks that include PROCEDURE DIVISION paragraphs (search for \u0022PROCEDURE DIVISION\u0022, \u0022PARAGRAPH.\u0022 inside .cpy files).\n   - Duplicate 01-level and paragraph names across the included set.\n3. Refactor high-risk copybooks first:\n   - Anything that is both data and procedure, or any copybook that is included into many others and itself includes other copybooks.\n4. Convert PD-* to CALLable modules where reuse is high.\n\nConcise pairing map (for quick orientation)\n- FDPERMISSOES group: SELECT-FDPERMISSOES.cpy -\u003E DD-FDPERMISSOES.cpy -\u003E PD-FDPERMISSOES.cpy\n- FPEDOC group: SELECT-FPEDOC.cpy -\u003E DD-FPEDOC.cpy -\u003E RPEDOC.cpy / PD routines\n- DMS protocol: DD-DMSPROTN.cpy -\u003E PD-DMSPROTN.cpy / PD-DMSPROTN1.cpy / PD-DMSPROTN4.cpy -\u003E API-ERRO / PD-ERRO-* handlers\n- Error \u0026 messages: DD-TABERROS.cpy / DD-VAR-ERROS.cpy / DD-ERRO-* -\u003E PD-TABERROS.cpy / PD-ERRO-* -\u003E API-MSG-ERR.cpy / API-ERRO.cpy\n- Utilities: DD-DATA-HORA.cpy / DD-INCTIME.cpy / DD-DIFDATAS.cpy -\u003E PD-DATA-HORA.cpy / PD-INCTIME.cpy / PD-DIFDATAS.cpy\n- Reporting/Output: RPERMISSOES.cpy, RPEDOC.cpy\n\nIf you want, I can:\n- Produce a COPY-include graph from the repository (if you provide the copybook files or a listing of COPY statements inside each cpy), and list exact circular includes and variable name collisions.\n- Propose a concrete refactor plan splitting X copybooks into callable modules with an interface definition.",
+  "metrics": {
+    "totalPrograms": 1,
+    "totalCopybooks": 0,
+    "totalDependencies": 131,
+    "averageDependenciesPerProgram": 131,
+    "mostUsedCopybook": "SELECT-FDPERMISSOES.cpy",
+    "mostUsedCopybookCount": 1,
+    "circularDependencies": []
+  },
+  "createdAt": "2026-03-20T15:49:38.9132778Z"
+}
